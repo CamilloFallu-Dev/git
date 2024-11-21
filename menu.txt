@@ -9,3 +9,5 @@ Primi piatti
 Secondi 
 
 - Bistecca
+
+Costo: 50 euro
