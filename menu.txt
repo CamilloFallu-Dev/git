@@ -12,6 +12,7 @@ Secondi
 
 - Bistecca
 - Pesce
+- Polpette
 
 Costo: 50 euro
 Mancia obbligatoria: 15%
