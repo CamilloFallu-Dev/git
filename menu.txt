@@ -14,6 +14,8 @@ Secondi
 
 - Bistecca
 - Pesce
+- Polpette
+- Patate fritte
 
 Costo: 50 euro
 Mancia obbligatoria: 15%
