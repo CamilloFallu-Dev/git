@@ -14,7 +14,7 @@ Secondi
 - Bistecca
 - Pesce
 - Polpette
-- Patate fritte
+- cototelle
 
-Costo: 50 euro
+Costo: 60 euro
 Mancia obbligatoria: 15%
